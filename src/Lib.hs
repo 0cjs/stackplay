@@ -3,7 +3,10 @@ module Lib
     ( someFunc
     ) where
 
+import Acme.Missiles
 import qualified Data.Text.IO as T
 
 someFunc :: IO ()
-someFunc = T.putStrLn "someFunc"
+someFunc =
+     do T.putStrLn "someFunc"
+        launchMissiles
