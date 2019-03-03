@@ -2,9 +2,9 @@ name:                stackplay
 version:             0.1.0.0
 github:              "githubuser/stackplay"
 license:             BSD3
-author:              "Author name here"
-maintainer:          "example@example.com"
-copyright:           "2019 Author name here"
+author:              "Curt J. Sampson <cjs@cynic.net>"
+maintainer:          "Curt J. Sampson <cjs@cynic.net>"
+copyright:           "2019 Curt J. Sampson"
 
 extra-source-files:
 - README.md
